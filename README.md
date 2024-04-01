@@ -10,6 +10,15 @@ Note 0: this method only bypassed the bootloader unlocked check, you may need to
 
 Note 1: if you are using other bank application and it checks for unlocked bootloader, this will probably work, I only tested it on Swedbank's app though.
 
+# 📱 My setup
+
+* [Phone: Xiaomi POCO X5 PRO 5G](https://www.po.co/global/product/poco-x5-pro-5g/)
+* [CrDroid(Android 13)](https://xdaforums.com/t/rom-14-0-redwood-crdroid-v10-1-official-19-01-2024.4603577/)
+* [KernelSU](https://kernelsu.org/)
+* [TWRP](https://twrp.me/)
+* [MicroG](https://microg.org/)
+* SafetyNet pass by default(important for banking apps)
+
 # 📚 Prerequisites
 
 * Unlocked bootloader
