@@ -17,6 +17,7 @@ Note 1: if you are using other bank application and it checks for unlocked bootl
 * [KernelSU](https://kernelsu.org/)
 * [TWRP](https://twrp.me/)
 * [MicroG](https://microg.org/)
+* [Shamiko](https://github.com/LSPosed/LSPosed.github.io)
 * SafetyNet pass by default(important for banking apps)
 
 # 📚 Prerequisites
