@@ -6,10 +6,9 @@
 
 Swedbank's Android application checks if you have your bootloader unlocked and if you do, they will not allow you to make NFC payments/create a digital card. This is a huge problem if you want to use NFC payments on a custom rom/rooted device.
 
-Note 0: this method only bypassed the bootloader unlocked check, you may need to take some additional steps to get the app to work.
+This method only bypassed the bootloader unlocked check, you may need to take some additional steps to get the app to work.
 
-Note 1: if you are using other bank application and it checks for unlocked bootloader, this will probably work, I only tested it on Swedbank's app though.
-
+If you are using other bank application and it checks for unlocked bootloader, this will probably work, I only tested it on Swedbank's app though.
 # 📱 My setup
 
 * [Phone: Xiaomi POCO X5 PRO 5G](https://www.po.co/global/product/poco-x5-pro-5g/)
