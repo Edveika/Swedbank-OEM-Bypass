@@ -38,6 +38,7 @@ If you are using other bank application and it checks for unlocked bootloader, t
 `getprop sys.oem_unlock_allowed`
 
 0 - locked
+
 1 - unlocked
 
 4. If it says 1 launch the following command
